@@ -3,25 +3,25 @@
 ## 1. Menu Link
 
 ### Home Page will contain Header, Footer & Body
-•	Header 
-  o	Website Logo
-  o	Website Name
-  o	Navigation Bar/Menu
-  o	Hero text
-  o	Hero Images
-•	Footer 
-  o	Contact Us
-  o	About Us
-  o	Few External Links to helpful websites about Internet History
-  o	Site Map
-  o	Follow Us
-•	Body 
-  o	Articles
-  o	Slide Horizontal Bar Menu
-  o	Few Contents about Internet History
-    	Images
-    	Text
-    	External Links
+*	Header 
+  *	Website Logo
+  *	Website Name
+  *	Navigation Bar/Menu
+  *	Hero text
+  *	Hero Images
+*	Footer 
+  *	Contact Us
+  *	About Us
+  *	Few External Links to helpful websites about Internet History
+  *	Site Map
+  *	Follow Us
+*	Body 
+  *	Articles
+  *	Slide Horizontal Bar Menu
+  *	Few Contents about Internet History
+    *	Images
+    *	Text
+    *	External Links
 
 
 ## 2. Page Title
