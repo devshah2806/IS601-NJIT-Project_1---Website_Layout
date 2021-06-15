@@ -7,7 +7,7 @@
 * Dot Com Bubble
 * The Evolution of Internet
 * How Internet Works
-              * Wires, Cables & WiFi
-              * IP Addresses & DNS
-              * Packets, Routing & Reliability
-              * HTTP & HTML
+  * Wires, Cables & WiFi
+  * IP Addresses & DNS
+  * Packets, Routing & Reliability
+  * HTTP & HTML
