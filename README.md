@@ -19,15 +19,10 @@
 * Body
   * Articles
   * Slider
-  * Few Contents about Internet History
-    *	Images
-    *	Text
-    *	External Links
-
-
-
-
+  * Description of the project
+  
 ## 2. Page Title
+* Home
 ## 3. Description
 ## 4. Keywords
 ## 5. Page Layout
