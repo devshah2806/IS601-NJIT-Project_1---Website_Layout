@@ -16,6 +16,14 @@
   * Few External Links to helpful websites about Internet History
   * Site Map
   * Follow Us
+* Body
+  * Articles
+  * Slide Horizontal Bar Menu
+  * Few Contents about Internet History
+    *	Images
+    *	Text
+    *	External Links
+
 
 
 
