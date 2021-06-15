@@ -1,6 +1,6 @@
-# *Main_Website*
+# Main_Website
 
-## 1. Menu Link
+## **1. Menu Link**
 
 ### Home Page will contain Header, Footer & Body
 
