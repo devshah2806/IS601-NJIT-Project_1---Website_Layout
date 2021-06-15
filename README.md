@@ -5,12 +5,12 @@
 ### Home Page will contain Header, Footer & Body
 
 *	Header
-  *	 
-  * Website Logo
-  * Website Name
-  *	Navigation Bar/Menu
-  *	Hero text
-  *	Hero Images
+   *	 
+   * Website Logo
+   * Website Name
+   *	Navigation Bar/Menu
+   *	Hero text
+   *	Hero Images
 *	Footer 
    *	Contact Us
    *	About Us
