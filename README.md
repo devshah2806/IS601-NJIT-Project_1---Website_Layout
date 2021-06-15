@@ -18,7 +18,7 @@
   * Follow Us
 * Body
   * Articles
-  * Slide Horizontal Bar Menu
+  * Slider
   * Few Contents about Internet History
     *	Images
     *	Text
