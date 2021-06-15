@@ -4,8 +4,8 @@
 
 ### Home Page will contain Header, Footer & Body
 *	Header 
-   *	Website Logo
-   *	Website Name
+  * Website Logo
+  * Website Name
    *	Navigation Bar/Menu
    *	Hero text
    *	Hero Images
