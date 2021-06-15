@@ -10,7 +10,13 @@
   * Hero Text
   * Hero Images
   * Navigation Bar
-  
+* Footer
+  * Contact Us
+  * About Us
+  * Few External Links to helpful websites about Internet History
+  * Site Map
+  * Follow Us
+
 
 
 ## 2. Page Title
