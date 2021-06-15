@@ -1,6 +1,6 @@
 # Main_Website
 
-## **1. Menu Link**
+## 1. Menu Link
 
 ### Home Page will contain Header, Footer & Body
 
@@ -11,11 +11,11 @@
   *	Hero text
   *	Hero Images
 *	Footer 
-  *	Contact Us
-  *	About Us
-  *	Few External Links to helpful websites about Internet History
-  *	Site Map
-  *	Follow Us
+   *	Contact Us
+   *	About Us
+   *	Few External Links to helpful websites about Internet History
+   *	Site Map
+   *	Follow Us
 *	Body 
   *	Articles
   *	Slide Horizontal Bar Menu
