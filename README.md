@@ -18,9 +18,9 @@
    *	Site Map
    *	Follow Us
 *	Body 
-  *	Articles
-  *	Slide Horizontal Bar Menu
-  *	Few Contents about Internet History
+ *	Articles
+ *	Slide Horizontal Bar Menu
+ *	Few Contents about Internet History
     *	Images
     *	Text
     *	External Links
