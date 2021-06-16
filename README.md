@@ -26,6 +26,7 @@
 * History of Internet
 
 ## 3. Description
+* This page gives the over all information about how ARPANET became internet. How Dr. Vint Cerf and Robert Kahn founded TCP/IP. Leonard Kleinrock later created ARPANET the precursor of internet. Also, we will get information about his most significant work his queuing Theory. Also, there’s information about Paul Baran known for packet switching. And finally, Lawrence Roberts the father of internet. The people who contributed in the making of initial internet and the events that took place during that time and all the specifics of how one thing led to other and how internet was created.
 
 ## 4. Keywords
 
