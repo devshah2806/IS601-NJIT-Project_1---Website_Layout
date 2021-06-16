@@ -1,4 +1,4 @@
-# Main_Website
+# **_Browser War_**
 
 ## 1. Menu Link
 * Header
@@ -34,7 +34,7 @@
 
 ## 6. Meta Data
 
-## 7. Page Content (Link to another .MD file with contents)
+## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Browser_War_MainBody.md)
 
 ## 8. Sidebar Content (Link to another .MD file with contents)
 
