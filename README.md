@@ -1,6 +1,10 @@
 # Main_Website
 
 ## 1. Menu Link
+* Header
+* Footer
+* Main Body
+* Side Bar
 
 ## 2. Page Title
 
