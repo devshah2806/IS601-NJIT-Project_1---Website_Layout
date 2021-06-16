@@ -26,6 +26,7 @@
 * Internet Search
 
 ## 3. Description
+* Today everything we want to know we just have to right a small sentence and press enter. Google is the answer to every question now a days. But google wasn’t the original or only search engine. In this section you’ll know the story of how the search engine was invented the thoughts behind it. How there were many search engines and how goggle emerged at the top.
 
 ## 4. Keywords
 
@@ -40,4 +41,4 @@
 
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_sidebar)
 
-## 10. Page Image
+## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_MainBody)
