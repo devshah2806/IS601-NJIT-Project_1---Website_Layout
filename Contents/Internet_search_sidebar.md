@@ -13,3 +13,28 @@
 * Type of site:	Web portal
 * Founded: 	January 1994; 27 years ago
 * It provides a web portal, search engine Yahoo Search, and related services, including My Yahoo!, Yahoo Mail, Yahoo News, Yahoo Finance, Yahoo Sports and its advertising platform, Verizon Media Native.
+
+### Lawrence Edward Page
+* Born: March 26, 1973 (age 48)
+* Known for:
+  * Co-founding Google
+  * Co-founding Alphabet Inc.
+  * Co-creator PageRank
+
+### Sergey Mikhaylovich Brin
+* Born: August 21, 1973
+* Known for:
+  * Co-founding Google & X
+  * Co-founding Alphabet Inc.
+  * Co-creator PageRank
+
+### Sergey Mikhaylovich Brin
+* Born: August 21, 1973
+* Known for:
+  * Co-founding Google & X
+  * Co-founding Alphabet Inc.
+  * Co-creator PageRank
+
+  ### Google Inc
+* Formed: (1998–2017)
+* Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the big four Internet stocks along with Amazon, Facebook, and Apple.
