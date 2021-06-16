@@ -33,4 +33,6 @@
 ## 5. Page Layout
 * Guterberg (Primary Optical Area)
 
-## 6. Page Content (Link to another .MD file with contents)
+## 6. Meta Data
+
+## 7. Page Content (Link to another .MD file with contents)
