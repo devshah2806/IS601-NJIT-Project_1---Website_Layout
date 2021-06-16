@@ -26,6 +26,7 @@
 * Dot Com Bubble
 
 ## 3. Description
+* 1990 was the birth year of amazon. The first ecommerce website with the idea of selling books online. With the similar goal came eBay. The fast success of amazon made it launch its own ipo in just a time of 2 years. To make online shopping secure, there was a need for security and that gave birth to public key encryption. This page has to offer you with all the information about how online shopping or let us say e commerce started and how it influenced everything and everyone.
 
 ## 4. Keywords
 
