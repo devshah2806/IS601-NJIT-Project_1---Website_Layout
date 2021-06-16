@@ -34,10 +34,10 @@
 
 ## 6. Meta Data
 
-## 7. Page Content (Link to another .MD file with contents)
+## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Dot_com_bubble_MainBody.md)
 
-## 8. Sidebar Content (Link to another .MD file with contents)
+## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Dot_com_bubble_SideBar.md)
 
-## 9. Sidebar Image
+## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_SideBar)
 
-## 10. Page Image
+## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_MainBody)
