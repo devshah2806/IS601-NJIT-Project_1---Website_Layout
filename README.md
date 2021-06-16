@@ -17,7 +17,7 @@
     * Images  
 * Side Bar
   * Content on history of internet
-    * Text
+    * Timeline
     * Images  
 
 ## 2. Page Title
