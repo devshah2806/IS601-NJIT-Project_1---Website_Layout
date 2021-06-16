@@ -20,10 +20,10 @@
     * Timeline
     * Images  
 * Page Link/Address
-  * Home/ History of Internet
+  * Home/ Browser War
    
 ## 2. Page Title
-* History of Internet
+* Browser War
 
 ## 3. Description
 
