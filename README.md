@@ -6,6 +6,11 @@
   * Menu/Navigation Bar
   * Page link/address
 * Footer
+  * Contact Us
+  * About Us
+  * Few External Links to helpful websites about Internet History
+  * Site Map
+  * Follow Us
 * Main Body
 * Side Bar
 
