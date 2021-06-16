@@ -37,7 +37,7 @@
 
 ## 7. Page Content (Link to another .MD file with contents)
 
-## 8. Sidebar Content (Link to another .MD file with contents)
+## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/History_of_Internet_SideBar.md) 
 
 ## 9. Sidebar Image
 ![Vinton Gray Cerf](https://github.com/devshah2806/Main_Website/blob/main/Images/Dr_Vint_Cerf_ForMemRS.jpg "Vinton Gray Cerf")
