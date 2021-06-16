@@ -41,5 +41,5 @@
 
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_SideBar)
 
-## 10. Page Image
+## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_MainBody)
 
