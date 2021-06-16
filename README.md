@@ -12,7 +12,13 @@
   * Site Map
   * Follow Us
 * Main Body
+  * Content on history of internet
+    * Text
+    * Images  
 * Side Bar
+  * Content on history of internet
+    * Text
+    * Images  
 
 ## 2. Page Title
 
