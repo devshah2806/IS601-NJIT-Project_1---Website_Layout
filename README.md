@@ -23,8 +23,12 @@
   
 ## 2. Page Title
 * Home
+
 ## 3. Description
+* Internet! It's something in today's world without which nothing can survive. If there's no internet, the world will literally stop functioning. From education to business, telecommunication, online shopping, medicine, military, etc. But do people actually know how the Internet works or how it was invented? The answer is NO. So,  through this website, we want to create a platform and a place where to provide information and make people aware of who invented the internet. How the Internet was invented and the process of how it was evolved.
+
 ## 4. Keywords
+
 ## 5. Page Layout
 * Guterberg (Primary Optical Area)
 ## 6. Page Content (Link to another .MD file with contents)
