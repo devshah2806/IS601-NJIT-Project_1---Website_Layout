@@ -23,12 +23,14 @@
   * Home/ History of Internet
    
 ## 2. Page Title
+* History of Internet
 
 ## 3. Description
 
 ## 4. Keywords
 
 ## 5. Page Layout
+* F Layout
 
 ## 6. Meta Data
 
