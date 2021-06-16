@@ -36,3 +36,7 @@
 ## 6. Meta Data
 
 ## 7. Page Content (Link to another .MD file with contents)
+
+## 8. Page Image (Hero Images)
+
+
