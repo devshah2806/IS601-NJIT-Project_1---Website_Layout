@@ -36,7 +36,7 @@
 
 ## 7. Page Content (Link to another .MD file with contents)
 
-## 8. Sidebar Content (Link to another .MD file with contents)
+## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Internet_search_sidebar.md)
 
 ## 9. Sidebar Image
 
