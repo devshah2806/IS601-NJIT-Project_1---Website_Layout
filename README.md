@@ -26,6 +26,7 @@
 * Browser War
 
 ## 3. Description
+* A browser war is competition for dominance in the usage share of web browsers. The "First Browser War" during the late 1990s pitted Microsoft's Internet Explorer against Netscape's Navigator.[2] Browser wars continued with the decline of Internet Explorer's market share and the popularity of other browsers. We will provide the detailed timeline on the events that took place during that time and how it affected everyone that were related to the war.
 
 ## 4. Keywords
 
@@ -36,7 +37,7 @@
 
 ## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Browser_War_MainBody.md)
 
-## 8. Sidebar Content (Link to another .MD file with contents)
+## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Browser_War_Sidebar.md)
 
 ## 9. Sidebar Image
 
