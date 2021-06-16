@@ -40,6 +40,7 @@
 ## 8. Sidebar Content (Link to another .MD file with contents)
 
 ## 9. Sidebar Image
+![Vinton Gray Cerf](https://github.com/devshah2806/Main_Website/blob/main/Images/Dr_Vint_Cerf_ForMemRS.jpg "Vinton Gray Cerf")
 
-## 10. Page Image 
+## 10. Page Image
 
