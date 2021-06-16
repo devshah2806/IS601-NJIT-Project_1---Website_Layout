@@ -39,7 +39,7 @@
 
 ## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Browser_War_Sidebar.md)
 
-## 9. Sidebar Image
+## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_War_SideBar)
 
-## 10. Page Image 
+## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_war_MainBody) 
 
