@@ -41,6 +41,10 @@
 
 ## 9. Sidebar Image
 ![Vinton Gray Cerf](https://github.com/devshah2806/Main_Website/blob/main/Images/Dr_Vint_Cerf_ForMemRS.jpg "Vinton Gray Cerf")
+![Lawrence Gilman Roberts](https://github.com/devshah2806/Main_Website/blob/main/Images/Lawrence%20Gilman%20Roberts.jpg "Lawrence Gilman Roberts")
+![Leonard Kleinrock](https://github.com/devshah2806/Main_Website/blob/main/Images/Leonard%20Kleinrock.jpg "Leonard Kleinrock")
+![Paul Baran](https://github.com/devshah2806/Main_Website/blob/main/Images/Paul%20Baran.jpg "Paul Baran")
+![Robert Elliott Kahn](https://github.com/devshah2806/Main_Website/blob/main/Images/Robert%20Elliott%20Kahn.jpg "Robert Elliott Kahn")
 
 ## 10. Page Image
 
