@@ -20,10 +20,10 @@
     * Timeline
     * Images  
 * Page Link/Address
-  * Home/ Internet Search
+  * Home/ Dot Com Bubble
 
 ## 2. Page Title
-* Internet Search
+* Dot Com Bubble
 
 ## 3. Description
 
