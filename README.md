@@ -34,10 +34,10 @@
 
 ## 6. Meta Data
 
-## 7. Page Content (Link to another .MD file with contents)
+## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Internet_search_MainBody.md)
 
 ## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Internet_search_sidebar.md)
 
-## 9. Sidebar Image
+## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_sidebar)
 
 ## 10. Page Image
