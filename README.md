@@ -2,6 +2,9 @@
 
 ## 1. Menu Link
 * Header
+  * Website Logo
+  * Menu/Navigation Bar
+  * Page link/address
 * Footer
 * Main Body
 * Side Bar
