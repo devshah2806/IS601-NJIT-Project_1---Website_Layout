@@ -1,0 +1,1 @@
+Description: This section shows the new generation of internet. How internet went from just transferring files and data to online shopping then came Digg an online news website. After that, there was no shortage of idea and no stopping to the growing internet. YouTube, Facebook, Myspace were online social apps. With all this started a new era of internet.
