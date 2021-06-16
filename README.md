@@ -39,7 +39,7 @@
 
 ## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/History_of_Internet_SideBar.md) 
 
-## 9. Sidebar Image
+## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_SideBar)
 ![Vinton Gray Cerf](https://github.com/devshah2806/Main_Website/blob/main/Images/Dr_Vint_Cerf_ForMemRS.jpg "Vinton Gray Cerf")
 ![Lawrence Gilman Roberts](https://github.com/devshah2806/Main_Website/blob/main/Images/Lawrence%20Gilman%20Roberts.jpg "Lawrence Gilman Roberts")
 ![Leonard Kleinrock](https://github.com/devshah2806/Main_Website/blob/main/Images/Leonard%20Kleinrock.jpg "Leonard Kleinrock")
