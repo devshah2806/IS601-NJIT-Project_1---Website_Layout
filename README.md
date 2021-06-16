@@ -12,32 +12,24 @@
   * Site Map
   * Follow Us
 * Main Body
-  * Content on history of internet
+  * Content on How Internet Works
     * Text
     * Images  
-* Side Bar
-  * Content on history of internet
-    * Timeline
-    * Images  
 * Page Link/Address
-  * Home/ The Evolution
+  * Home/ How Internet Works
 
 ## 2. Page Title
-* The_Evolution
+* How Internet Works
 
 ## 3. Description
 
 ## 4. Keywords
 
 ## 5. Page Layout
-* F Layout
+* ZigZag Layout
 
 ## 6. Meta Data
 
 ## 7. Page Content (Link to another .MD file with contents)
 
-## 8. Sidebar Content (Link to another .MD file with contents)
-
-## 9. Sidebar Image
-
-## 10. Page Image
+## 8. Page Image
