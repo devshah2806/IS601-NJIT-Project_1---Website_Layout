@@ -34,7 +34,7 @@
 
 ## *Hero Text*
 ### * The Evolution of Internet, From ARPANET to INTERNET, Browser War, Internet! The Journey.
-======================================================================================================================================================================
+========================================================================================================================================================================================
 
 # **_Website Main Menu_** 
 * Home
@@ -48,6 +48,7 @@
   * The Evolution
 * Contact Us
 * About Us
+========================================================================================================================================================================================
 
 
 # **_History Of Internet_**
@@ -95,6 +96,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_MainBody)
+========================================================================================================================================================================================
 
 
 # **_Browser War_**
@@ -143,6 +145,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_War_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_war_MainBody) 
+========================================================================================================================================================================================
 
 
 # **_Internet Search_**
@@ -190,6 +193,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_sidebar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_MainBody)
+========================================================================================================================================================================================
 
 
 # Dot Com Bubble
@@ -237,6 +241,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_MainBody)
+========================================================================================================================================================================================
 
 
 # **_The Evolution_**
@@ -284,6 +289,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/The_Evolution_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/The_Evolution_MainBody)
+========================================================================================================================================================================================
 
 
 # **_News Letter_** **_& Gallery_**
@@ -292,3 +298,18 @@
 * Both pages will have Header and footer same as all pages.
 ### Page Layout
   * ZigZag Layout
+========================================================================================================================================================================================
+
+# **_Pages Layouts_**
+
+**Home Page**
+[]()
+
+**History Pages**
+[]()
+
+**Contact Us**
+[]()
+
+**Newsletter / Gallery**
+[]()
