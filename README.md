@@ -1,7 +1,6 @@
 # **Documentation**
 ==
 
-
 # **_Partner's Info_**
 
 ## **Name: Tanvi Shah**
@@ -37,3 +36,24 @@
 ## *Hero Text*
 ### The Evolution of Internet, From ARPANET to INTERNET, Browser War, Internet! The Journey.
 ==
+
+
+
+* Home
+* Newsletter
+* Gallery
+* History/Explorer it
+  * The Invention of the Internet
+  * Browser War
+  * Internet Search
+  * Dot Com Bubble
+  * The Evolution of Internet
+* How Internet Works
+  * Wires, Cables & WiFi
+  * IP Addresses & DNS
+  * Packets, Routing & Reliability
+  * HTTP & HTML
+* Contact Us
+* About Us 
+==
+
