@@ -80,11 +80,13 @@
 * This page gives the over all information about how ARPANET became internet. How Dr. Vint Cerf and Robert Kahn founded TCP/IP. Leonard Kleinrock later created ARPANET the precursor of internet. Also, we will get information about his most significant work his queuing Theory. Also, there’s information about Paul Baran known for packet switching. And finally, Lawrence Roberts the father of internet. The people who contributed in the making of initial internet and the events that took place during that time and all the specifics of how one thing led to other and how internet was created.
 
 ## 4. Keywords
+* History, TCP/IP, Dr. Vinton, Dr Robert Kahn, Dr. Leonard Kleinrock, Dr. Paul Baran, Dr. Larry Robert, UCLA, SRI, UCSB, UTAH, 1st sept 1969.
 
 ## 5. Page Layout
 * F Layout
 
 ## 6. Meta Data
+* This page gives the overall information about how ARPANET became internet. How Dr. Vint Cerf and Robert Kahn founded TCP/IP. Leonard Kleinrock later created ARPANET the precursor of internet. Also, we will get information about his most significant work his queuing Theory. Also, there’s information about Paul Baran known for packet switching. And finally, Lawrence Roberts the father of internet. The people who contributed in the making of initial internet and the events that took place during that time and all the specifics of how one thing led to other and how internet was created.
 
 ## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/History_of_Internet_MainBody.md)
 
@@ -126,11 +128,13 @@
 * This page gives the over all information about how ARPANET became internet. How Dr. Vint Cerf and Robert Kahn founded TCP/IP. Leonard Kleinrock later created ARPANET the precursor of internet. Also, we will get information about his most significant work his queuing Theory. Also, there’s information about Paul Baran known for packet switching. And finally, Lawrence Roberts the father of internet. The people who contributed in the making of initial internet and the events that took place during that time and all the specifics of how one thing led to other and how internet was created.
 
 ## 4. Keywords
+* www, mosaic, MARC, James Clark, Netscape, Microsoft, Bill gates, Aleks Totic, Navigator, Aug 1995, Dec 7th, 1995, Steve Ballmer.
 
 ## 5. Page Layout
 * F Layout
 
 ## 6. Meta Data
+* This page gives the overall information about how ARPANET became internet. How Dr. Vint Cerf and Robert Kahn founded TCP/IP. Leonard Kleinrock later created ARPANET the precursor of internet. Also, we will get information about his most significant work his queuing Theory. Also, there’s information about Paul Baran known for packet switching. And finally, Lawrence Roberts the father of internet. The people who contributed in the making of initial internet and the events that took place during that time and all the specifics of how one thing led to other and how internet was created.
 
 ## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Browser_War_MainBody.md)
 
@@ -171,11 +175,13 @@
 * Today everything we want to know we just have to right a small sentence and press enter. Google is the answer to every question now a days. But google wasn’t the original or only search engine. In this section you’ll know the story of how the search engine was invented the thoughts behind it. How there were many search engines and how goggle emerged at the top.
 
 ## 4. Keywords
+* Google, Jerry Yang, David Fowler, Yahoo, Michael Mortiz, Srinija Srinivasan, Excite, Larry Page, Sergey Brin, John Doerr, David Cheriton, Nasdaq.
 
 ## 5. Page Layout
 * F Layout
 
 ## 6. Meta Data
+* Today everything we want to know we just have to right a small sentence and press enter. Google is the answer to every question now a days. But Google wasn’t the original or only search engine. In this section you’ll know the story of how the search engine was invented the thoughts behind it. How there were many search engines and how goggle emerged at the top.
 
 ## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Internet_search_MainBody.md)
 
@@ -216,11 +222,13 @@
 * 1990 was the birth year of amazon. The first ecommerce website with the idea of selling books online. With the similar goal came eBay. The fast success of amazon made it launch its own ipo in just a time of 2 years. To make online shopping secure, there was a need for security and that gave birth to public key encryption. This page has to offer you with all the information about how online shopping or let us say e commerce started and how it influenced everything and everyone.
 
 ## 4. Keywords
+* Amazon, Jeff Benzos, Pierre Omidyar, eBay, Henry Blodget, McCafé Law, public key encryption, NASDAQ, Jay Adelson, Black Friday. 
 
 ## 5. Page Layout
 * F Layout
 
 ## 6. Meta Data
+* 1990 was the birth year of Amazon. The first ecommerce website with the idea of selling books online. With the similar goal came eBay. The fast success of Amazon made it launch its own IPOs in just a time of 2 years. To make online shopping secure, there was a need for security and that gave birth to public key encryption. This page has to offer you with all the information about how online shopping or let us say e commerce started and how it influenced everything and everyone.
 
 ## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/Dot_com_bubble_MainBody.md)
 
@@ -261,11 +269,13 @@
 * This section shows the new generation of internet. How internet went from just transferring files and data to online shopping then came Digg an online news website. After that, there was no shortage of idea and no stopping to the growing internet. YouTube, Facebook, Myspace were online social apps. With all this started a new era of internet.
 
 ## 4. Keywords
+* Jay Adelson, CEO, Digg, Chad Hurley, YouTube, Mark Zuckerberg, Facebook, David Weekly, Shawn Fanning, Napster, Steve Jobs, MySpace, Jimmy Whales, Wikipedia.
 
 ## 5. Page Layout
 * F Layout
 
 ## 6. Meta Data
+* This section shows the new generation of internet. How internet went from just transferring files and data to online shopping then came Digg an online news website. After that, there was no shortage of idea and no stopping to the growing internet. YouTube, Facebook, Myspace were online social apps. With all this started a new era of internet.
 
 ## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/The_Evolution_MainBody.md)
 
