@@ -54,44 +54,57 @@
   * Packets, Routing & Reliability
   * HTTP & HTML
 * Contact Us
-* About Us 
-==
+* About Us
+  ==
+
+
+
+# **_History Of Internet_**
 
 ## 1. Menu Link
-
-### Home Page will contain Header, Footer & Body
-
 * Header
   * Website Logo
-  * Website name
-  * Hero Text
-  * Hero Images
-  * Navigation Bar
+  * Menu/Navigation Bar
+  * Page link/address
 * Footer
   * Contact Us
   * About Us
   * Few External Links to helpful websites about Internet History
   * Site Map
   * Follow Us
-* Body
-  * Articles
-  * Slider
-  * Description of the project
-  
+* Main Body
+  * Content on history of internet
+    * Text
+    * Images  
+* Side Bar
+  * Content on history of internet
+    * Timeline
+    * Images  
+* Page Link/Address
+  * Home/ History of Internet
+   
 ## 2. Page Title
-* Home
+* History of Internet
 
 ## 3. Description
-* Internet! It's something in today's world without which nothing can survive. If there's no internet, the world will literally stop functioning. From education to business, telecommunication, online shopping, medicine, military, etc. But do people actually know how the Internet works or how it was invented? The answer is NO. So,  through this website, we want to create a platform and a place where to provide information and make people aware of who invented the internet. How the Internet was invented and the process of how it was evolved.
+* This page gives the over all information about how ARPANET became internet. How Dr. Vint Cerf and Robert Kahn founded TCP/IP. Leonard Kleinrock later created ARPANET the precursor of internet. Also, we will get information about his most significant work his queuing Theory. Also, there’s information about Paul Baran known for packet switching. And finally, Lawrence Roberts the father of internet. The people who contributed in the making of initial internet and the events that took place during that time and all the specifics of how one thing led to other and how internet was created.
 
 ## 4. Keywords
-* Browser war, Netscape,  Mosaic Mccool James Clark, Microsoft, Bill gates, Navigator, Yahoo, Michael Moritz, Excite, Larry page, Google, Browser War, Dot com Bubble, Jeff Benzos, Amazon, eBay, Pierre Omidyar, NASDAQ, flee bay, Digg, YouTube, Jay Adelson, Facebook, Mark Zuckerberg, Napster Shawn Fanning, MySpace, TCP, ARPANET.
 
 ## 5. Page Layout
-* Guterberg (Primary Optical Area)
+* F Layout
 
 ## 6. Meta Data
 
-## 7. Page Image (Hero Images)
+## 7. [Page Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/History_of_Internet_MainBody.md)
+
+## 8. [Sidebar Content](https://github.com/devshah2806/Main_Website/blob/main/Contents/History_of_Internet_SideBar.md) 
+
+## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_SideBar)
+
+## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_MainBody)
+===
+
+
 
 
