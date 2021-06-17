@@ -279,7 +279,7 @@
 # **_News Letter_** **_& Gallery_**
 * News Letter Page will contain newletter, blogs & articles.
 * Gallery Page will contain Images & videos. 
-# Page Layout
+### Page Layout
   * ZigZag Layout
 
 
