@@ -1,4 +1,4 @@
-# **_Dot Cum Bubble/ MainBody Content_**
+# **_Dot Com Bubble/ MainBody Content_**
 
 **E-Commerce is a new age that changed the way the business works the way we but and sell.**
 
