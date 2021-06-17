@@ -292,5 +292,3 @@
 * Both pages will have Header and footer same as all pages.
 ### Page Layout
   * ZigZag Layout
-
-
