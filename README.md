@@ -24,16 +24,16 @@
 ### CEO: Shriya Shah
 
 ## *Keywords*
-### Browser war, Netscape,  Mosaic Mccool James Clark, Microsoft, Bill gates, Navigator, Yahoo, Michael Moritz, Excite, Larry page, Google, Browser War, Dot com Bubble, Jeff Benzos, Amazon, eBay, Pierre Omidyar, NASDAQ, flee bay, Digg, YouTube, Jay Adelson, Facebook, Mark Zuckerberg, Napster Shawn Fanning, MySpace, TCP, ARPANET.
+### * Browser war, Netscape,  Mosaic Mccool James Clark, Microsoft, Bill gates, Navigator, Yahoo, Michael Moritz, Excite, Larry page, Google, Browser War, Dot com Bubble, Jeff Benzos, Amazon, eBay, Pierre Omidyar, NASDAQ, flee bay, Digg, YouTube, Jay Adelson, Facebook, Mark Zuckerberg, Napster Shawn Fanning, MySpace, TCP, ARPANET.
 
 ## *Website Title*
 ###
 
 ## *Page Title*
-### The Evolution of Internet.
+### * The Evolution of Internet.
 
 ## *Hero Text*
-### The Evolution of Internet, From ARPANET to INTERNET, Browser War, Internet! The Journey.
+### * The Evolution of Internet, From ARPANET to INTERNET, Browser War, Internet! The Journey.
 
 
 # **_Website Main Menu_** 
