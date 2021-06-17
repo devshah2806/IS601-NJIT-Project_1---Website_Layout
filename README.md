@@ -303,13 +303,13 @@
 # **_Pages Layouts_**
 
 **Home Page**
-[]()
+[Home Page](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Home_Page.jpg)
 
 **History Pages**
-[]()
+[History Pages](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/History_Pages.jpg)
 
 **Contact Us**
-[]()
+[Contact Us](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Contact_page.jpg)
 
 **Newsletter / Gallery**
-[]()
+[Newsletter / Gallery](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Newsletter_gallery.jpg)
