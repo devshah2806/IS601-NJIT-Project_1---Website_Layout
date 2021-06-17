@@ -303,7 +303,7 @@
 # **_Pages Layouts_**
 
 **Home Page**
-[Home Page](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Home_Page.jpg)
+![Home Page](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Home_Page.jpg "Home Page")
 
 **History Pages**
 [History Pages](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/History_Pages.jpg)
