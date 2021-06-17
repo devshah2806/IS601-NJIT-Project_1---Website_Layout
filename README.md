@@ -288,7 +288,8 @@
 
 # **_News Letter_** **_& Gallery_**
 * News Letter Page will contain newletter, blogs & articles.
-* Gallery Page will contain Images & videos. 
+* Gallery Page will contain Images & videos.
+* Both pages will have Header and footer same as all pages.
 ### Page Layout
   * ZigZag Layout
 
