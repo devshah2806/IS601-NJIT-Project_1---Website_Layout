@@ -1,8 +1,8 @@
 # **Documentation**
-==
+
+
 
 # **_Partner's Info_**
-
 ## **Name: Tanvi Shah**
 ### I have completed my bachelor’s in Information Technology in 2018 from then I did my 1-year masters in Computer Science in India, and now I am pursuing MS in computer science. Along with studying, I am also working at ZT SYSTEMS. Where I test cloud servers for Microsoft, Amazon and IBM. I have some experience with coding in Java, Python and C++. I'm planning on my career in cloud networking. This course has Azure cloud, Kubernetes which will help me in the future. 
 
@@ -10,19 +10,18 @@
 ### I have completed my bachelor’s in computer applications in 2019 from India and now started my MS in computer science, I am currently working at ZT SYSTEMS as a Senior Test and Quality Technician. I have somewhat experience in front-end and recently started learning Python, looking forward to gaining a deeper understanding of web development through this class as I would like to pursue a career in this field. Excited to work with you all.
 
 
-
-## Concept of Website
+## **_Concept of Website_**
 ### Internet! It's something in today's world without which nothing can survive. If there's no internet, the world will literally stop functioning. From education to business, telecommunication, online shopping, medicine, military, etc. But do people actually know how the Internet works or how it was invented? The answer is NO. So,  through this website, we want to create a platform and a place where to provide information and make people aware of who invented the internet. How the Internet was invented and the process of how it was evolved.
-==
 
 
+# **_WebSite General Info_**
 ## *Description*
 ### is a website headquartered in New Jersey, Jersey City. It was created as a college project on June 10, 2021, and became the parent project for the future and became the main part of the portfolio.
-## Founders : Devang Shah , Tanvi Shah
-## Founded: June 10, 2021, New Jersey City
-## Revenue: 182.5 USD (2021)
-## Chairperson: Megha Shah
-## CEO: Shriya Shah
+### Founders : Devang Shah , Tanvi Shah
+### Founded: June 10, 2021, New Jersey City
+### Revenue: 182.5 USD (2021)
+### Chairperson: Megha Shah
+### CEO: Shriya Shah
 
 ## *Keywords*
 ### Browser war, Netscape,  Mosaic Mccool James Clark, Microsoft, Bill gates, Navigator, Yahoo, Michael Moritz, Excite, Larry page, Google, Browser War, Dot com Bubble, Jeff Benzos, Amazon, eBay, Pierre Omidyar, NASDAQ, flee bay, Digg, YouTube, Jay Adelson, Facebook, Mark Zuckerberg, Napster Shawn Fanning, MySpace, TCP, ARPANET.
@@ -35,32 +34,23 @@
 
 ## *Hero Text*
 ### The Evolution of Internet, From ARPANET to INTERNET, Browser War, Internet! The Journey.
-==
 
 
-
+# **_Website Main Menu_** 
 * Home
 * Newsletter
 * Gallery
 * History/Explorer it
-  * The Invention of the Internet
+  * History of Internet
   * Browser War
   * Internet Search
   * Dot Com Bubble
-  * The Evolution of Internet
-* How Internet Works
-  * Wires, Cables & WiFi
-  * IP Addresses & DNS
-  * Packets, Routing & Reliability
-  * HTTP & HTML
+  * The Evolution
 * Contact Us
 * About Us
-==
-
 
 
 # **_History Of Internet_**
-
 ## 1. Menu Link
 * Header
   * Website Logo
@@ -103,12 +93,9 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_MainBody)
-===
-
 
 
 # **_Browser War_**
-
 ## 1. Menu Link
 * Header
   * Website Logo
@@ -121,11 +108,11 @@
   * Site Map
   * Follow Us
 * Main Body
-  * Content on history of internet
+  * Content on Netscape Browser & Microsoft's Browser
     * Text
     * Images  
 * Side Bar
-  * Content on history of internet
+  * Content on Netscape Browser & Microsoft's Browser founders and products.
     * Timeline
     * Images  
 * Page Link/Address
@@ -152,12 +139,9 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_War_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_war_MainBody) 
-==
-
 
 
 # **_Internet Search_**
-
 ## 1. Menu Link
 * Header
   * Website Logo
@@ -170,11 +154,11 @@
   * Site Map
   * Follow Us
 * Main Body
-  * Content on history of internet
+  * Content on search engines
     * Text
     * Images  
 * Side Bar
-  * Content on history of internet
+  * Content on search engines
     * Timeline
     * Images  
 * Page Link/Address
@@ -200,12 +184,9 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_sidebar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_MainBody)
-==
-
 
 
 # Dot Com Bubble
-
 ## 1. Menu Link
 * Header
   * Website Logo
@@ -218,11 +199,11 @@
   * Site Map
   * Follow Us
 * Main Body
-  * Content on history of internet
+  * Content on Online Commercial Sites
     * Text
     * Images  
 * Side Bar
-  * Content on history of internet
+  * Content on Online Commercial Sites
     * Timeline
     * Images  
 * Page Link/Address
@@ -248,12 +229,9 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_MainBody)
-==
 
 
-
-# The Evolution
-
+# **_The Evolution_**
 ## 1. Menu Link
 * Header
   * Website Logo
@@ -296,7 +274,12 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/The_Evolution_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/The_Evolution_MainBody)
-==
 
+
+# **_News Letter_** **_& Gallery_**
+* News Letter Page will contain newletter, blogs & articles.
+* Gallery Page will contain Images & videos. 
+# Page Layout
+  * ZigZag Layout
 
 
