@@ -12,7 +12,7 @@
 
 ## **_Concept of Website_**
 ### Internet! It's something in today's world without which nothing can survive. If there's no internet, the world will literally stop functioning. From education to business, telecommunication, online shopping, medicine, military, etc. But do people actually know how the Internet works or how it was invented? The answer is NO. So,  through this website, we want to create a platform and a place where to provide information and make people aware of who invented the internet. How the Internet was invented and the process of how it was evolved.
-
+========================================================================================================================================================================================
 
 # **_WebSite General Info_**
 ## *Description*
@@ -34,7 +34,7 @@
 
 ## *Hero Text*
 ### * The Evolution of Internet, From ARPANET to INTERNET, Browser War, Internet! The Journey.
-
+========================================================================================================================================================================================
 
 # **_Website Main Menu_** 
 * Home
@@ -48,6 +48,7 @@
   * The Evolution
 * Contact Us
 * About Us
+========================================================================================================================================================================================
 
 
 # **_History Of Internet_**
@@ -95,6 +96,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/History_of_Internet_MainBody)
+========================================================================================================================================================================================
 
 
 # **_Browser War_**
@@ -143,6 +145,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_War_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Browser_war_MainBody) 
+========================================================================================================================================================================================
 
 
 # **_Internet Search_**
@@ -190,6 +193,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_sidebar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Internet_search_MainBody)
+========================================================================================================================================================================================
 
 
 # Dot Com Bubble
@@ -237,6 +241,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/Dot_com_bubble_MainBody)
+========================================================================================================================================================================================
 
 
 # **_The Evolution_**
@@ -284,6 +289,7 @@
 ## 9. [Sidebar Image](https://github.com/devshah2806/Main_Website/tree/main/Images/The_Evolution_SideBar)
 
 ## 10. [Page Image](https://github.com/devshah2806/Main_Website/tree/main/Images/The_Evolution_MainBody)
+========================================================================================================================================================================================
 
 
 # **_News Letter_** **_& Gallery_**
@@ -292,3 +298,18 @@
 * Both pages will have Header and footer same as all pages.
 ### Page Layout
   * ZigZag Layout
+========================================================================================================================================================================================
+
+# **_Pages Layouts_**
+
+**Home Page**
+![Home Page](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Home_Page.jpg "Home Page")
+
+**History Pages**
+![History Pages](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/History_Pages.jpg "History Pages")
+
+**Contact Us**
+![Contact Us](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Contact_page.jpg "Contact Us")
+
+**Newsletter / Gallery**
+![Newsletter / Gallery](https://github.com/tanvis3110/Main_Website/blob/main/Images/Pages_Layouts/Newsletter_gallery.jpg "News Letter/ Gallery")
